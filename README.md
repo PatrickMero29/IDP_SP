@@ -1,4 +1,4 @@
-# Product Security Take-Home
+# IDP_SP
 
 A Python 3.12/FastAPI IDP and two independent SPs implement OIDC Authorization
 Code + S256 PKCE using Authlib, joserfc and cryptography. Alice/Bob sign in at the
